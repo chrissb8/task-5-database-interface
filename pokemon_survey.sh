@@ -25,3 +25,7 @@ echo $NUMBER >> temp.list
 echo $TIME >> temp.list
 
 paste -d ',' -s temp.list >> aggregate.csv
+
+
+
+
